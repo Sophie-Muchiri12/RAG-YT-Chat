@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.26",
+    "@langchain/community": "^0.3.53",
+    "@langchain/core": "^0.3.69",
+    "@langchain/langgraph": "^0.4.4",
+    "@langchain/openai": "^0.6.9",
+    "@langchain/textsplitters": "^0.1.0",
+    "dotenv": "^17.2.1",
+    "langchain": "^0.3.31",
+    "zod": "^3.25.76"
+  }
+}

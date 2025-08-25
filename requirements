@@ -1,0 +1,1 @@
+npm install @langchain/core @langchain/langgraph @langchain/anthropic zod
